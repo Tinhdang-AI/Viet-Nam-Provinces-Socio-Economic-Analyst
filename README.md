@@ -30,7 +30,7 @@ VietNam Analyst/
 ├── scripts/
 │   └── clean_and_build_dataset.py          # Script Python tự động làm sạch & chuẩn hóa dữ liệu
 │
-├── Kinh TeXH VN.pbix                       # File báo cáo Power BI Dashboard hoàn chỉnh
+├── Kinh Te Xa Hoi Viet Nam.pbix                       # File báo cáo Power BI Dashboard hoàn chỉnh
 ├── Map_34.json                             # Bản đồ TopoJSON cho visual Shape Map
 ├── .gitignore                              # File cấu hình Git
 └── README.md                               # Tài liệu hướng dẫn dự án
@@ -62,19 +62,8 @@ python scripts/clean_and_build_dataset.py
 ```
 
 ### Mở và chỉnh sửa Dashboard Power BI:
-1. Mở tệp **`Kinh TeXH VN.pbix`** bằng ứng dụng **Power BI Desktop**.
+1. Mở tệp **`Kinh Te Xa Hoi Viet Nam.pbix`** bằng ứng dụng **Power BI Desktop**.
 2. Khi muốn liên kết trực tiếp nguồn dữ liệu vào các file CSV sạch: chọn **Transform Data** > Trỏ source về thư mục `data/processed/`.
 3. Bản đồ số `Map_34.json` đã được nhúng sẵn vào visual Shape Map trong báo cáo.
 
 ---
-
-## 🛠️ 5. Đẩy dự án lên GitHub
-
-```bash
-git init
-git add .
-git commit -m "feat: init Vietnam 34 provinces socio-economic analysis dataset and dashboard"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-git push -u origin main
-```
