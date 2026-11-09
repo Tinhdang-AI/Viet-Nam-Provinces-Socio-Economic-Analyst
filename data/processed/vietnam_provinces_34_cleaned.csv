@@ -1,0 +1,35 @@
+﻿Province,Region,Sub_Region,Admin_Type,Status,Merged_Constituents,Area_km2,Population,Population_Million,Density_Pop_per_km2,GRDP_Billion_VND,GDP_Billion_USD,Income_USD_per_capita,Budget_Remittance_Rate
+An Giang,Miền Nam,Đồng bằng sông Cửu Long,Tỉnh,Hợp nhất,An Giang; Kiên Giang,9888.91,4952238,4.952,500.8,271346.0,10.85,2190.9,0.15
+Bắc Ninh,Miền Bắc,Đồng bằng sông Hồng,Tỉnh,Hợp nhất,Bắc Ninh; Bắc Giang,4718.6,3619433,3.619,767.1,439776.0,17.59,4859.9,0.32
+Cao Bằng,Miền Bắc,Trung du và miền núi phía Bắc,Tỉnh,Giữ nguyên,Cao Bằng,6700.4,555809,0.556,83.0,26450.0,1.06,1907.1,0.12
+Cà Mau,Miền Nam,Đồng bằng sông Cửu Long,Tỉnh,Hợp nhất,Cà Mau; Bạc Liêu,7942.39,2606672,2.607,328.2,138500.0,5.54,2125.3,0.14
+Cần Thơ,Miền Nam,Đồng bằng sông Cửu Long,Thành phố trực thuộc TW,Hợp nhất,Cần Thơ; Hậu Giang; Sóc Trăng,6360.83,4199824,4.2,660.3,281675.0,11.27,2683.4,0.26
+Gia Lai,Miền Trung,Tây Nguyên,Tỉnh,Hợp nhất,Gia Lai; Bình Định,21580.9,4183693,4.184,193.9,215400.0,8.62,2060.4,0.17
+Hà Nội,Miền Bắc,Đồng bằng sông Hồng,Thành phố trực thuộc TW,Giữ nguyên,Hà Nội,3359.82,8718000,8.718,2594.8,1425521.0,57.02,6540.5,0.42
+Hà Tĩnh,Miền Trung,Bắc Trung Bộ,Tỉnh,Giữ nguyên,Hà Tĩnh,5994.4,1622901,1.623,270.7,110250.0,4.41,2717.4,0.18
+Hưng Yên,Miền Bắc,Đồng bằng sông Hồng,Tỉnh,Hợp nhất,Hưng Yên; Thái Bình,2514.81,3567943,3.568,1418.8,292603.0,11.7,3279.2,0.22
+Hải Phòng,Miền Bắc,Đồng bằng sông Hồng,Thành phố trực thuộc TW,Hợp nhất,Hải Phòng; Hải Dương,3194.72,4664124,4.664,1459.9,658381.0,26.34,5647.4,0.4
+Hồ Chí Minh,Miền Nam,Đông Nam Bộ,Thành phố trực thuộc TW,Hợp nhất,Hồ Chí Minh; Bình Dương; Bà Rịa - Vũng Tàu,6772.59,14002598,14.003,2067.5,2715782.0,108.63,7757.8,0.78
+Khánh Hòa,Miền Trung,Duyên hải Nam Trung Bộ,Tỉnh,Hợp nhất,Khánh Hòa; Ninh Thuận,8555.86,2243554,2.244,262.2,168400.0,6.74,3004.2,0.24
+Lai Châu,Miền Bắc,Trung du và miền núi phía Bắc,Tỉnh,Giữ nguyên,Lai Châu,9068.7,494626,0.495,54.5,27500.0,1.1,2223.9,0.11
+Lào Cai,Miền Bắc,Trung du và miền núi phía Bắc,Tỉnh,Hợp nhất,Lào Cai; Yên Bái,13256.92,1778785,1.779,134.2,118600.0,4.74,2664.7,0.14
+Lâm Đồng,Miền Trung,Tây Nguyên,Tỉnh,Hợp nhất,Lâm Đồng; Đắk Nông; Bình Thuận,23966.49,3872999,3.873,161.6,319887.0,12.8,3304.9,0.21
+Lạng Sơn,Miền Bắc,Trung du và miền núi phía Bắc,Tỉnh,Giữ nguyên,Lạng Sơn,8310.2,813978,0.814,97.9,48900.0,1.96,2407.9,0.15
+Nghệ An,Miền Trung,Bắc Trung Bộ,Tỉnh,Giữ nguyên,Nghệ An,16493.7,3470988,3.471,210.4,208500.0,8.34,2402.8,0.16
+Ninh Bình,Miền Bắc,Đồng bằng sông Hồng,Tỉnh,Hợp nhất,Ninh Bình; Hà Nam; Nam Định,3942.62,4412264,4.412,1119.1,310282.0,12.41,2812.6,0.23
+Phú Thọ,Miền Bắc,Trung du và miền núi phía Bắc,Tỉnh,Hợp nhất,Phú Thọ; Vĩnh Phúc; Hòa Bình,9361.38,4022638,4.023,429.7,354580.0,14.18,3525.0,0.25
+Quảng Ngãi,Miền Trung,Duyên hải Nam Trung Bộ,Tỉnh,Hợp nhất,Quảng Ngãi; Kon Tum,14832.55,2161755,2.162,145.7,176200.0,7.05,3261.2,0.19
+Quảng Ninh,Miền Bắc,Đồng bằng sông Hồng,Tỉnh,Giữ nguyên,Quảng Ninh,6207.9,1429841,1.43,230.3,347534.0,13.9,9721.4,0.35
+Quảng Trị,Miền Trung,Bắc Trung Bộ,Tỉnh,Hợp nhất,Quảng Trị; Quảng Bình,12700.0,1870845,1.871,147.3,105400.0,4.22,2255.7,0.15
+Sơn La,Miền Bắc,Trung du và miền núi phía Bắc,Tỉnh,Giữ nguyên,Sơn La,14109.8,1327430,1.327,94.1,73200.0,2.93,2207.3,0.13
+Thanh Hóa,Miền Trung,Bắc Trung Bộ,Tỉnh,Giữ nguyên,Thanh Hóa,11114.7,3760650,3.761,338.3,316995.0,12.68,3371.8,0.2
+Thái Nguyên,Miền Bắc,Trung du và miền núi phía Bắc,Tỉnh,Hợp nhất,Thái Nguyên; Bắc Kạn,8375.21,1799489,1.799,214.9,175600.0,7.02,3901.1,0.21
+Thừa Thiên Huế,Miền Trung,Bắc Trung Bộ,Thành phố trực thuộc TW,Giữ nguyên,Thừa Thiên Huế,4947.1,1236393,1.236,249.9,82300.0,3.29,2661.0,0.22
+Tuyên Quang,Miền Bắc,Trung du và miền núi phía Bắc,Tỉnh,Hợp nhất,Tuyên Quang; Hà Giang,13795.5,1865270,1.865,135.2,86400.0,3.46,1855.0,0.13
+Tây Ninh,Miền Nam,Đông Nam Bộ,Tỉnh,Hợp nhất,Tây Ninh; Long An,8536.44,3254170,3.254,381.2,312466.0,12.5,3841.2,0.28
+Vĩnh Long,Miền Nam,Đồng bằng sông Cửu Long,Tỉnh,Hợp nhất,Vĩnh Long; Bến Tre; Trà Vinh,6296.2,4257581,4.258,676.2,236800.0,9.47,2224.3,0.16
+Điện Biên,Miền Bắc,Trung du và miền núi phía Bắc,Tỉnh,Giữ nguyên,Điện Biên,9539.9,653422,0.653,68.5,30120.0,1.2,1836.5,0.1
+Đà Nẵng,Miền Trung,Duyên hải Nam Trung Bộ,Thành phố trực thuộc TW,Hợp nhất,Đà Nẵng; Quảng Nam,11859.59,3065628,3.066,258.5,279926.0,11.2,3653.4,0.28
+Đắk Lắk,Miền Trung,Tây Nguyên,Tỉnh,Hợp nhất,Đắk Lắk; Phú Yên,18099.8,3849200,3.849,212.7,192800.0,7.71,2003.0,0.16
+Đồng Nai,Miền Nam,Đông Nam Bộ,Tỉnh,Hợp nhất,Đồng Nai; Bình Phước,12737.18,4491408,4.491,352.6,609176.0,24.37,5425.9,0.45
+Đồng Tháp,Miền Nam,Đồng bằng sông Cửu Long,Tỉnh,Hợp nhất,Đồng Tháp; Tiền Giang,5938.64,4370046,4.37,735.9,228900.0,9.16,2096.1,0.15
